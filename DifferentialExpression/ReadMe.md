@@ -9,12 +9,12 @@ QuasiSeq can be installed from source at: <br/> https://cran.r-project.org/src/c
 
 ## Input file
 
-* B278aLight_read_counts.csv  
+* [B278aLight_read_counts.csv](B278aLight_read_counts.csv)  
 <br/>
 
 ## Analysis script
 
-* Quasi_analysis_B278aLight.R
+* [Quasi_analysis_B278aLight.R](Quasi_analysis_B278aLight.R)
 
 *__Note:__ A* ``` figures/ ```  *subdirectory should be created within the working directory before running the analysis. If this subdirectory does not already exist when the script is run, the p-value histograms and volcano plots will not be saved.*  
 <br/>

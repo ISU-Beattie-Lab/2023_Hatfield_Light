@@ -7,12 +7,12 @@ Functional over-representation analysis among BphP1-dependent photoresponsive ge
 
 ## Input file
 
-* BphP1DepDEGs_function_counts.csv  
+* [BphP1DepDEGs_function_counts.csv](BphP1DepDEGs_function_counts.csv)  
 <br/>
 
 ## Analysis script
 
-* FishersExact_Enrichment_jabes.R
+* [FishersExact_Enrichment_jabes.R](FishersExact_Enrichment_jabes.R)
 
 __Note:__ The file ``` jabes.txt ``` is required as input during analysis and should be saved in the working directory.  
 <br/>
