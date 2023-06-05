@@ -7,7 +7,7 @@ Each Excel file contains the source data and associated statistical analysis res
 
 **Figs. 3 & S4**
 
-Functional overrepresentation analysis was conducted using a Fisher’s exact test with histogram-based correction for multiple testing using custom R scripts (see [here](OverRepresentation/) for details).  
+Functional overrepresentation analysis was conducted using a Fisher’s exact test with histogram-based correction for multiple testing using custom R scripts (see [here](../OverRepresentation/ReadMe.md) for details).  
 <br/>
 
 **Figs. 4, S5, & S6**
