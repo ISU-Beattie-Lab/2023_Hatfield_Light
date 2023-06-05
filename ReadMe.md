@@ -42,8 +42,8 @@
 
 * __[Source Data Fig 4.xlsx](SourceData/Source%20Data%20Fig%204.xlsx)__ : Excel file containing the source data and full statistical analysis results for plots in Fig. 4
 
-* __[Source Data Fig S4.xlsx](SourceData/Source%20Data%20Fig%204.xlsx)__ : Excel file containing the source data and full statistical analysis results for plots in *SI Appendix*, Fig. S4
+* __[Source Data Fig S4.xlsx](SourceData/Source%20Data%20Fig%20S4.xlsx)__ : Excel file containing the source data and full statistical analysis results for plots in *SI Appendix*, Fig. S4
 
-* __[Source Data Fig S5.xlsx](SourceData/Source%20Data%20Fig%205.xlsx)__ : Excel file containing the source data and full statistical analysis results for plots in *SI Appendix*, Fig. S5
+* __[Source Data Fig S5.xlsx](SourceData/Source%20Data%20Fig%20S5.xlsx)__ : Excel file containing the source data and full statistical analysis results for plots in *SI Appendix*, Fig. S5
 
-* __[Source Data Fig S6.xlsx](SourceData/Source%20Data%20Fig%206.xlsx)__ : Excel file containing the source data and full statistical analysis results for plots in *SI Appendix*, Fig. S6
+* __[Source Data Fig S6.xlsx](SourceData/Source%20Data%20Fig%20S6.xlsx)__ : Excel file containing the source data and full statistical analysis results for plots in *SI Appendix*, Fig. S6

@@ -19,12 +19,12 @@ For osmotolerance (area under the curve [AUC]) data, all statistical analyses we
 
 ## Files
 
-* __[Source Data Fig 3.xlsx](SourceData/Source%20Data%20Fig%203.xlsx)__
+* __[Source Data Fig 3.xlsx](Source%20Data%20Fig%203.xlsx)__
 
-* __[Source Data Fig 4.xlsx](SourceData/Source%20Data%20Fig%204.xlsx)__
+* __[Source Data Fig 4.xlsx](Source%20Data%20Fig%204.xlsx)__
 
-* __[Source Data Fig S4.xlsx](SourceData/Source%20Data%20Fig%204.xlsx)__
+* __[Source Data Fig S4.xlsx](Source%20Data%20Fig%20S4.xlsx)__
 
-* __[Source Data Fig S5.xlsx](SourceData/Source%20Data%20Fig%205.xlsx)__
+* __[Source Data Fig S5.xlsx](Source%20Data%20Fig%20S5.xlsx)__
 
-* __[Source Data Fig S6.xlsx](SourceData/Source%20Data%20Fig%206.xlsx)__
+* __[Source Data Fig S6.xlsx](Source%20Data%20Fig%20S6.xlsx)__
