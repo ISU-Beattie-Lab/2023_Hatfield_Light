@@ -1,4 +1,4 @@
-# Custom R scripts for the manuscript '*Light cues induce protective anticipation of environmental water loss in Pseudomonas syringae and other pseudomonads*'
+# Custom R scripts for the manuscript '*Light cues induce protective anticipation of environmental water loss in terrestrial bacteria*'
 
 **Authors:** Bridget M. Hatfield, Breah LaSarre, Meiling Liu, Haili Dong, Dan Nettleton, Gwyn A. Beattie
 
