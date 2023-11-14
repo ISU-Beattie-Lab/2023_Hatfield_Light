@@ -1,8 +1,10 @@
-# Custom R scripts for the manuscript '*Light cues induce protective anticipation of environmental water loss in Pseudomonas syringae and other pseudomonads*'
+# Custom R scripts for the manuscript '*Light cues induce protective anticipation of environmental water loss in terrestrial bacteria*'
 
 **Authors:** Bridget M. Hatfield, Breah LaSarre, Meiling Liu, Haili Dong, Dan Nettleton, Gwyn A. Beattie
 
-**Manuscript Status:** submitted
+**Manuscript Status:** Published
+
+**Publication details:** Hatfield BM, LaSarre B, Liu M, Dong H, Nettleton D, Beattie GA. Light cues induce protective anticipation of environmental water loss in terrestrial bacteria. Proc Natl Acad Sci U S A. 2023 Sep 19;120(38):e2309632120. doi: 10.1073/pnas.2309632120. Epub 2023 Sep 11. PMID: 37695906; PMCID: PMC10515139.
 
 **Contact:** gbeattie@iastate.edu  
 <br /> 
